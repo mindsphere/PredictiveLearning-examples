@@ -62,7 +62,7 @@ If you can see Predictive Learning on your Launchpad, you're ready to start deve
 - In the menu, select *Upload* and select the notebook downloaded from this repository
 - Adjust your notebook as indicated in the individual examples
 
-![image](./How_To_Import.gif)
+![image](./How_To_Import_Notebooks.gif)
 
 ## Questions and answers
 Feel free to ask your questions in the [MindSphere Developer Forum](https://community.sw.siemens.com/s/topic/0TO4O000000MihsWAC).
