@@ -41,7 +41,7 @@ You can add here your ideas or requests for further examples.
 ### Add examples
 You want to create your own example? Just send us your pull request.
 ## Remarks
-Please note that the screenshots show just the current state, when these examples have been created. They might differ to the latest software release.
+Please note that the screenshots show just the current state, when these examples have been created. They might differ to the latest software release..
 
 Each notebook might has to be adapted to your tenant. Ensure, that e.g. fixed tenant names or asset ids are adapted before/after running the code.
 
